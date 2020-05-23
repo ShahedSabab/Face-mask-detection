@@ -9,4 +9,4 @@ For collecting human faces with mask, a subset (1000 images) of the MAFA dataset
 • 99% accuracy is achieved while testing with hold-out images. <br>
 
 # How to run:
-To use the saved model check "maskDetectionModel.h5" file. For code and performance, check the maskDetection.ipynb file.
+For code and performance, check the maskDetection.ipynb file.
