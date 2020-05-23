@@ -7,4 +7,4 @@ Many measurements have been taken to tackle the COVID-19 pandemic. Among which w
 • 99% accuracy is achived while testing with hold-out images. <br>
 
 # How to run:
-Please check the maskDetection.ipynb file.
+To use the saved model check "maskDetectionModel.h5" file. For code and performance, check the maskDetection.ipynb file.
