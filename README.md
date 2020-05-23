@@ -8,5 +8,9 @@ For collecting human faces with mask, a subset (1000 images) of the MAFA dataset
 • Data augmentation (horizontal and vertical shift, flip) is performed as a preprocessing step. <br>
 • 99% accuracy is achieved while testing with hold-out images. <br>
 
+# Training Data
+The training data of this model can be found in the following link:<br>
+https://www.dropbox.com/sh/20zrofhd10f3dev/AACBL2j6I4fu9KrDLBhWI5U2a?dl=0
+
 # How to run:
 For code and performance, check the maskDetection.ipynb file.
