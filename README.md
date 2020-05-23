@@ -5,3 +5,6 @@ Many measurements have been taken to tackle the COVID-19 pandemic. Among which w
 • Resnet-50 is used to train the mdoel. <br>
 • Data augmentation (horizontal and vertical shift, flip) is performed as a preprocessing step. <br>
 • 99% accuracy is achived while testing with hold-out images. <br>
+
+# How to run:
+Please check the maskDetection.ipynb file.
