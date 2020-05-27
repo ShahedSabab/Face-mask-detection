@@ -16,7 +16,7 @@ The training data of this model can be found in the following link:<br>
 https://www.dropbox.com/sh/20zrofhd10f3dev/AACBL2j6I4fu9KrDLBhWI5U2a?dl=0
 
 # Performance
-![](performance.PNG)
+![Training Performace](performance.PNG)
 
 # How to run:
 For code and performance, check the maskDetection.ipynb file.
