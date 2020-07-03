@@ -2,7 +2,7 @@
 Many measurements have been taken to tackle the COVID-19 pandemic. Among which wearing mask is one way to prevent spreading the virus. The aim of this work is to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed which leverages transfer learning to detect mask. The training data for this model is collected from multiple sources. <br>
 
 For collecting human faces with mask, a subset (1000 images) of the MAFA dataset is used.<br>
-The dataset can be foudn in http://www.escience.cn/people/geshiming/mafa.html<br>
+The dataset can be found in http://www.escience.cn/people/geshiming/mafa.html<br>
 For collecting human faces without mask, a subset of (1000 images) the UTKFace dataset is used.<br>
 The dataset can be found in https://susanqq.github.io/UTKFace/ <br>
 
