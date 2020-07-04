@@ -12,7 +12,7 @@ Finally, the trained model is used to detect human face with/without face mask i
 • Resnet-50 is used to train the model. <br>
 • Data augmentation (horizontal and vertical shift, flip) is performed as a preprocessing step. <br>
 • 99% accuracy is achieved while testing with hold-out images. <br>
-• OpenCV is used to detect face mask in real time.<br>
+• OpenCV is used to detect the face mask in real time.<br>
 
 # Training Data
 The training data of this model can be found in the following link:<br>
