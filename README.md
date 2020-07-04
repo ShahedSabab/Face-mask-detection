@@ -18,7 +18,7 @@ Finally, the trained model is used to detect human face with/without face mask i
 The training data of this model can be found in the following link:<br>
 https://www.dropbox.com/sh/20zrofhd10f3dev/AACBL2j6I4fu9KrDLBhWI5U2a?dl=0
 
-<img src="maskOrNoMask.gif" width="100%">
+<img src="maskOrNoMask.gif" width="70%">
 
 # Performance
 ![Training Performace](performance.PNG)
