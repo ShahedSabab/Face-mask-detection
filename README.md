@@ -6,7 +6,7 @@ The dataset can be found in http://www.escience.cn/people/geshiming/mafa.html<br
 For collecting human faces without mask, a subset of (1000 images) the UTKFace dataset is used.<br>
 The dataset can be found in https://susanqq.github.io/UTKFace/ <br>
 
-Finally, the trained model is used to detect human face with/without face mask in real time using webcam feed.
+Finally, the trained model is used to detect a human face with/without face mask in real-time using webcam feed.<br>
 
 • Keras is used to develop the model. <br>
 • Resnet-50 is used to train the model. <br>
