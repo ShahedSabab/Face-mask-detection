@@ -22,4 +22,4 @@ https://www.dropbox.com/sh/20zrofhd10f3dev/AACBL2j6I4fu9KrDLBhWI5U2a?dl=0
 ![Training Performace](performance.PNG)
 
 # How to run:
-For code and performance, check the maskDetection.ipynb file. To run the face mask detection applicaiton a webcam must be plugged in. Run the MaskOrNot.py file to detect if any person is wearing a face mask or not.
+For code and performance, check the maskDetection.ipynb file. To run the face mask detection application a webcam must be plugged in. Run the MaskOrNot.py file to detect if any person is wearing a face mask or not.
