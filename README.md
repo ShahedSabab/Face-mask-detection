@@ -1,5 +1,5 @@
-# Mask Detection
-Many measurements have been taken to tackle the COVID-19 pandemic. Among which wearing mask is one way to prevent spreading the virus. The aim of this work is to detect if a person is wearing a mask or not. With this objective, a machine learning model is developed which leverages transfer learning to detect face mask. The training data for this model is collected from multiple sources. <br>
+# Social Police
+Many measurements have been taken to tackle the COVID-19 pandemic. Among which wearing mask is one way to prevent spreading the virus. The aim of this work is to detect if a person is wearing a mask or not. With this objective, presenting Social Police, a system running machine learning model that leverages transfer learning to detect face mask. The training data for this model is collected from multiple sources. <br>
 
 For collecting human faces with mask, a subset (1000 images) of the MAFA dataset is used.<br>
 The dataset can be found in http://www.escience.cn/people/geshiming/mafa.html<br>
